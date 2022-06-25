@@ -1,6 +1,8 @@
 # multiple-ds18b20-websocket
 This is an example of using a websocket server by connecting several ds18b20 temperature sensors to the wemos d1 r1 board!
 
+![498-8_bb](https://user-images.githubusercontent.com/106683637/175771687-caf06330-2f2a-45fa-818f-c7c94f147a20.jpg)
+
 Below is a video of the final result! Sorry, it's in Korean!
 
 [![Video Label](http://img.youtube.com/vi/O6YCD7KxLMA/0.jpg)](https://youtu.be/O6YCD7KxLMA?t=8129)
